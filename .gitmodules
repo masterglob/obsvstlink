@@ -1,0 +1,3 @@
+[submodule "vstdev/iPlug2"]
+	path = vstdev/iPlug2
+	url = https://github.com/iPlug2/iPlug2.git
